@@ -1,6 +1,5 @@
 # Typing speed
 
-[TOC]
 
 
 ## why?
