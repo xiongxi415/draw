@@ -1,4 +1,4 @@
-*Typing speed
+#Typing speed
 
 [TOC]
 
